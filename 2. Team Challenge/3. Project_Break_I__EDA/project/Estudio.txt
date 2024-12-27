@@ -1,0 +1,10 @@
+- Pólizas: evolución altas y bajas.
+- Pólizas: tipos más vendidos(Flex o Smart).
+
+- Clientes: años de los clientes
+- Clientes: pólizas por provincias
+
+- Vehículo: combustible utilizado
+- Vehículo: tipo de vehículo
+
+- Siniestros: cuantos siniestros por póliza

@@ -1,0 +1,10 @@
+I+D, gestión de subvenciones y programas(internalización, deducciones fiscales..), propiedad industrial del grupo, visibilidad(eventos y premios), 
+
+Bootcamp de Data Science - Proyecto EDA(Análisis exploratorio de datos)
+
+Copiloto de telemetría inteligente HAC, recopila datos durante la conducción/tiempo real incentivando los buenos hábitos de conductor.
+
+- Pólizas, altas y bajas
+- Clientes objetivo
+- Seguros Flex(pagas por uso del vehículo mensual) y Smart(te reduce poliza desde el segundo año)
+- Siniestros
