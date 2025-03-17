@@ -1,0 +1,2 @@
+Dataset - https://www.kaggle.com/datasets/caesarmario/application-data
+Notebook - https://www.kaggle.com/code/caesarmario/credit-card-approval-prediction-w-pycaret/notebook
